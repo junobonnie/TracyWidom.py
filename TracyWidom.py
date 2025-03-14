@@ -9,7 +9,7 @@ Copyright (c) 2013-2025 Yao-Yuan Mao
 http://opensource.org/licenses/MIT
 """
 
-from __future__ import division
+#from __future__ import division
 import numpy as np
 from scipy.interpolate import interp1d
 from scipy.optimize import brentq
